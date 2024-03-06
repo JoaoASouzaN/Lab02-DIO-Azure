@@ -1,0 +1,45 @@
+minhaFormatura
+
+Detected attributes
+
+A man in a blue suit
+
+JSON
+
+{
+  "apim-request-id": "fef1e3d7-cb3d-48a5-9e55-f413cde8ea2a",
+  "content-length": "146",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a man in a blue suit",
+    "confidence": 0.911872923374176
+  },
+  "metadata": {
+    "width": 519,
+    "height": 318
+  }
+}
+
+horario
+
+Detected attributes
+
+A screenshot of a phone
+
+JSON
+
+{
+  "apim-request-id": "9d8921a9-d568-4a1f-8844-b578df334c79",
+  "content-length": "151",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a screenshot of a phone",
+    "confidence": 0.7301195859909058
+  },
+  "metadata": {
+    "width": 720,
+    "height": 1280
+  }
+}
